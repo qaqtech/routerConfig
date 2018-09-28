@@ -4,6 +4,9 @@ const proxy = require('http-proxy-middleware');
 // Config
 const { routes } = require('./config.json');
 
+const hostname = "0.0.0.0";
+const port = 80;
+
 const app = express();
 
 for (route of routes) {
@@ -17,6 +20,6 @@ for (route of routes) {
     );
 }
 
-app.listen(80, () => {
+app.listen(port,hostname, () => {
     console.log('Proxy Started');
 });
