@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/online",
+      "address": "http://dev.faunacloud.com:8010"
+    },
+	{
+      "route": "/assort",
+      "address": "http://dev.faunacloud.com:8020"
+    }
+    
+  ]
+}
