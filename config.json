@@ -6,7 +6,7 @@
     },
 	{
       "route": "/dashbord",
-      "address": "http://api.faunacloud.com:8001"
+      "address": "http://api.qaqtech.com:8001"
     }
     
   ]
