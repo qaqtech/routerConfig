@@ -1,12 +1,12 @@
 {
   "routes": [
     {
-      "route": "/online",
-      "address": "http://dev.faunacloud.com:8010"
+      "route": "/login",
+      "address": "http://api.qaqtech.com:8000"
     },
 	{
-      "route": "/assort",
-      "address": "http://dev.faunacloud.com:8020"
+      "route": "/dashbord",
+      "address": "http://api.faunacloud.com:8001"
     }
     
   ]

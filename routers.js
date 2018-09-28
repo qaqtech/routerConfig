@@ -18,5 +18,5 @@ for (route of routes) {
 }
 
 app.listen(80, () => {
-    console.log('Proxy listening on port 8010');
+    console.log('Proxy Started');
 });
