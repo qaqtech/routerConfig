@@ -4,7 +4,7 @@ const proxy = require('http-proxy-middleware');
 // Config
 const { routes } = require('./config.json');
 
-const hostname = "0.0.0.0";
+const hostname = 'dev.faunacloud.com';
 const port = 80;
 
 const app = express();

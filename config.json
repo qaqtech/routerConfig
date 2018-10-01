@@ -7,6 +7,10 @@
 	{
       "route": "/dashbord",
       "address": "http://api.qaqtech.com:8001"
+    },
+    {
+      "route": "/marketing",
+      "address": "http://api.qaqtech.com:8002"
     }
     
   ]
