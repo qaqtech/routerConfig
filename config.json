@@ -4,13 +4,21 @@
       "route": "/login",
       "address": "http://api.qaqtech.com:8000"
     },
-	{
+  	{
       "route": "/dashbord",
       "address": "http://api.qaqtech.com:8001"
     },
     {
-      "route": "/marketing",
+      "route": "/system",
       "address": "http://api.qaqtech.com:8002"
+    },
+    {
+      "route": "/admin",
+      "address": "http://api.qaqtech.com:8003"
+    },
+    {
+      "route": "/marketing",
+      "address": "http://api.qaqtech.com:8004"
     }
     
   ]
