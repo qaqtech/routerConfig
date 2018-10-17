@@ -2,39 +2,39 @@
   "routes": [
     {
       "route": "/login",
-      "address": "http://api.qaqtech.com:8000"
+      "address": "http://dev.qaqtech.com:8000"
     },
   	{
       "route": "/dashbord",
-      "address": "http://api.qaqtech.com:8001"
+      "address": "http://dev.qaqtech.com:8001"
     },
     {
       "route": "/system",
-      "address": "http://api.qaqtech.com:8002"
+      "address": "http://dev.qaqtech.com:8002"
     },
     {
       "route": "/admin",
-      "address": "http://api.qaqtech.com:8003"
+      "address": "http://dev.qaqtech.com:8003"
     },
    {
       "route": "/contact",
-      "address": "http://api.qaqtech.com:8004"
+      "address": "http://dev.qaqtech.com:8004"
     },
     {
       "route": "/assort",
-      "address": "http://api.qaqtech.com:8005"
+      "address": "http://dev.qaqtech.com:8005"
     },
     {
       "route": "/marketing",
-      "address": "http://api.qaqtech.com:8006"
+      "address": "http://dev.qaqtech.com:8006"
     },
     {
       "route": "/dataMigration",
-      "address": "http://api.qaqtech.com:8010"
+      "address": "http://dev.qaqtech.com:8010"
     },
     {
       "route": "/memcached",
-      "address": "http://api.qaqtech.com:8011"
+      "address": "http://dev.qaqtech.com:8011"
     }
     
   ]
