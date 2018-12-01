@@ -1,5 +1,6 @@
 const express = require('express');
 const proxy = require('http-proxy-middleware');
+const cors = require("cors");
 
 // Config
 const { routes } = require('./config.json');
@@ -11,7 +12,7 @@ const app = express();
 
 
 
-
+  
 for (route of routes) {
     app.use(route.route,
         proxy({
