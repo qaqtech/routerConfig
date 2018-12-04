@@ -29,6 +29,10 @@
       "address": "http://dev.qaqtech.com:8006"
     },
     {
+      "route": "/pricing",
+      "address": "http://dev.qaqtech.com:8007"
+    },
+    {
       "route": "/dataMigration",
       "address": "http://dev.qaqtech.com:8010"
     },
@@ -36,6 +40,7 @@
       "route": "/memcached",
       "address": "http://dev.qaqtech.com:8011"
     }
+   
     
   ]
 }
