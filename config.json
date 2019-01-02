@@ -39,6 +39,10 @@
     {
       "route": "/memcached",
       "address": "http://dev.qaqtech.com:8011"
+    },
+    {
+      "route": "/buzzer",
+      "address": "http://dev.qaqtech.com:8012"
     }
    
     
