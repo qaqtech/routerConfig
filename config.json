@@ -33,6 +33,10 @@
       "address": "http://dev.qaqtech.com:8007"
     },
     {
+      "route": "/fileUpload",
+      "address": "http://dev.qaqtech.com:8008"
+    },
+    {
       "route": "/dataMigration",
       "address": "http://dev.qaqtech.com:8010"
     },
