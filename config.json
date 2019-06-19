@@ -36,6 +36,7 @@
       "route": "/fileUpload",
       "address": "http://dev.qaqtech.com:8008"
     },
+   
     {
       "route": "/dataMigration",
       "address": "http://dev.qaqtech.com:8010"
@@ -47,6 +48,10 @@
     {
       "route": "/buzzer",
       "address": "http://dev.qaqtech.com:8012"
+    },
+    {
+      "route": "/fileUpload",
+      "address": "http://dev.qaqtech.com:8013"
     }
    
     
