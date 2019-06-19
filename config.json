@@ -50,7 +50,7 @@
       "address": "http://dev.qaqtech.com:8012"
     },
     {
-      "route": "/fileUpload",
+      "route": "/scheduler",
       "address": "http://dev.qaqtech.com:8013"
     }
    
