@@ -36,6 +36,10 @@
       "route": "/fileUpload",
       "address": "http://dev.qaqtech.com:8008"
     },
+    {
+      "route": "/inward",
+      "address": "http://dev.qaqtech.com:8009"
+    },
    
     {
       "route": "/dataMigration",
