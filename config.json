@@ -56,6 +56,10 @@
     {
       "route": "/scheduler",
       "address": "http://dev.qaqtech.com:8013"
+    },
+    {
+      "route": "/parcels",
+      "address": "http://dev.qaqtech.com:8014"
     }
    
     
