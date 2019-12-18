@@ -34,7 +34,7 @@
     },
     {
       "route": "/fileUpload",
-      "address": "http://dev.qaqtech.com:8090"
+      "address": "http://dev.qaqtech.com:8160"
     },
     {
       "route": "/inward",
