@@ -6,48 +6,48 @@
     },
   	{
       "route": "/dashbord",
-      "address": "http://dev.qaqtech.com:8001"
+      "address": "http://dev.qaqtech.com:8010"
     },
     {
       "route": "/system",
-      "address": "http://dev.qaqtech.com:8002"
+      "address": "http://dev.qaqtech.com:8020"
     },
     {
       "route": "/admin",
-      "address": "http://dev.qaqtech.com:8003"
+      "address": "http://dev.qaqtech.com:8030"
     },
    {
       "route": "/contact",
-      "address": "http://dev.qaqtech.com:8004"
+      "address": "http://dev.qaqtech.com:8040"
     },
     {
       "route": "/preMarketing",
-      "address": "http://dev.qaqtech.com:8005"
+      "address": "http://dev.qaqtech.com:8050"
     },
     {
       "route": "/marketing",
-      "address": "http://dev.qaqtech.com:8006"
+      "address": "http://dev.qaqtech.com:8060"
     },
     {
       "route": "/pricing",
-      "address": "http://dev.qaqtech.com:8007"
+      "address": "http://dev.qaqtech.com:8070"
     },
     {
       "route": "/fileUpload",
-      "address": "http://dev.qaqtech.com:8008"
+      "address": "http://dev.qaqtech.com:8090"
     },
     {
       "route": "/inward",
-      "address": "http://dev.qaqtech.com:8009"
+      "address": "http://dev.qaqtech.com:8100"
     },
    
     {
       "route": "/dataMigration",
-      "address": "http://dev.qaqtech.com:8010"
+      "address": "http://dev.qaqtech.com:8120"
     },
     {
       "route": "/memcached",
-      "address": "http://dev.qaqtech.com:8011"
+      "address": "http://dev.qaqtech.com:8130"
     },
     {
       "route": "/buzzer",
@@ -55,11 +55,11 @@
     },
     {
       "route": "/scheduler",
-      "address": "http://dev.qaqtech.com:8013"
+      "address": "http://dev.qaqtech.com:8140"
     },
     {
       "route": "/parcels",
-      "address": "http://dev.qaqtech.com:8014"
+      "address": "http://dev.qaqtech.com:8150"
     }
    
     
