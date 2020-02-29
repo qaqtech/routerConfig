@@ -61,6 +61,11 @@
       "route": "/parcels",
       "address": "http://dev.qaqtech.com:8150"
     }
+    ,
+    {
+      "route": "/account",
+      "address": "http://dev.qaqtech.com:8200"
+    }
    
     
   ]
