@@ -63,7 +63,7 @@
     }
     ,
     {
-      "route": "/account",
+      "route": "/accounts",
       "address": "http://dev.qaqtech.com:8200"
     }
    
