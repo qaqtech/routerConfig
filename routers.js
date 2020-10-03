@@ -26,6 +26,7 @@ const httpServer = http.createServer(app);
 const httpsServer = https.createServer(credentials, app);
   
 for (route of routes) {
+    console.log("route",route);
     app.use(route.route,
         proxy({
             target: route.address,
