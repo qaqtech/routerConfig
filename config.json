@@ -66,6 +66,11 @@
       "route": "/accounts",
       "address": "http://dev.qaqtech.com:8200"
     }
+    ,
+    {
+      "route": "/files",
+      "address": "http://dev.qaqtech.com:8210"
+    }
    
     
   ]
