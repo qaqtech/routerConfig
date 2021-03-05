@@ -69,7 +69,7 @@
     ,
     {
       "route": "/files",
-      "address": "http://dev.qaqtech.com:8210"
+      "address": "http://dev.qaqtech.com:8220"
     }
    
     
